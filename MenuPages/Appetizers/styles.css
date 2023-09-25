@@ -16,7 +16,7 @@ a {
     height: 85%;
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .webTitle {
@@ -34,12 +34,13 @@ a {
     width: 22%;
     max-width: 350px;
     max-height: 500px;
-    min-width: 280px;
-    min-height: 400px;
+    min-width: 320px;
+    min-height: 450px;
     background-color: #256C61;
     border-radius: 15px;
     padding: 20px;
     transition: 0.3s;
+    margin-bottom: 1%;
 }
 
 .dishLabel {
