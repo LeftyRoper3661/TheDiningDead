@@ -50,15 +50,11 @@ a {
     align-items: center;
     margin-top: 5px;
     font-family: Oswald;
-    font-size: 20px;
+    font-size: 19px;
     background-color: #f2aeb1;
     height: 10%;
     width: 80%;
     border-radius: 10px;
-}
-
-.dish:hover {
-    transform: scale(1.3);
 }
 
 .pictureDiv {
