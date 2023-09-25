@@ -50,7 +50,7 @@ a {
     align-items: center;
     margin-top: 5px;
     font-family: Oswald;
-    font-size: 19px;
+    font-size: 23px;
     background-color: #f2aeb1;
     height: 10%;
     width: 80%;
@@ -85,6 +85,6 @@ a {
 
 .infoLabel {
     font-family: Oswald;
-    font-size: 22px;
+    font-size: 20px;
     margin-left: 8px;
 }
