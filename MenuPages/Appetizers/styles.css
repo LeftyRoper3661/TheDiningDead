@@ -4,6 +4,7 @@
 body {
     height: 100vh;
     background: linear-gradient(#004E64, #f2aeb1);
+    flex-wrap: wrap;
 }
 
 a {
@@ -25,12 +26,14 @@ a {
     color: #f2aeb1;
     display: flex;
     justify-content: center;
-    padding: 10px 10px;
+    
 }
 
 .dish {
-    height: 500px;
-    width: 350px;
+    height: 63%;
+    width: 22%;
+    max-width: 350px;
+    max-height: 500px;
     background-color: #256C61;
     border-radius: 15px;
     padding: 20px;
@@ -52,7 +55,7 @@ a {
 }
 
 .dish:hover {
-    transform: scale(1.2);
+    transform: scale(1.3);
 }
 
 .pictureDiv {
