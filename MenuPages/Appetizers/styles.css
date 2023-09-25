@@ -30,7 +30,7 @@ a {
 }
 
 .dish {
-    height: 63%;
+    height: 55%;
     width: 22%;
     max-width: 350px;
     max-height: 500px;
@@ -50,7 +50,7 @@ a {
     align-items: center;
     margin-top: 5px;
     font-family: Oswald;
-    font-size: 24px;
+    font-size: 21px;
     background-color: #f2aeb1;
     height: 10%;
     width: 80%;
